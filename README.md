@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sae2say)](https://github.com/anuraghazra/github-readme-stats)
 
 
