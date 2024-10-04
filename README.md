@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=84ADEA&height=150&section=header"/>
 
 <h1 align="center">💠sae2say💠</h1>
-
 <br>
-
 <h2 align="center">기술 스택</h3>
 
 <h3 align="center">💠주로 다뤄요</h3>
@@ -34,17 +32,7 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=sae2say
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sae2say)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💬 Let's Connect!
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sae2say">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/sae2say">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=84ADEA&height=150&section=footer"/>
