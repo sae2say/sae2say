@@ -4,8 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sae2say)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
 <h2 align="center">💠기술 스택💠</h3>
+
+<br>
 
 <h3 align="center">💠주로 다뤄요</h3>
 <p align="center">
@@ -38,6 +41,8 @@
 <br>
 
 <h2 align="center">💠최근 진행한 프로젝트💠</h3>
+
+<br>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sae2say&repo=Meong-Signal-BE)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sae2say&repo=Summerthon-FE)
