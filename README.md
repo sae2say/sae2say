@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=84ADEA&height=150&section=header"/>
 
 <h1 align="center">💠sae2say💠</h1>
-<br>
-<h2 align="center">기술 스택</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sae2say)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2 align="center">💠기술 스택💠</h3>
 
 <h3 align="center">💠주로 다뤄요</h3>
 <p align="center">
@@ -33,7 +36,13 @@
 </p>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sae2say)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="center">💠최근 진행한 프로젝트💠</h3>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sae2say&repo=Meong-Signal-BE)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sae2say&repo=Summerthon-FE)
+
+<br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=84ADEA&height=150&section=footer"/>
