@@ -48,9 +48,8 @@
 <br>
 
 
-### [바쁜 견주를 위한 도그워커 매칭 서비스](https://github-readme-stats.vercel.app/api/pin/?username=sae2say&repo=Meong-Signal-BE)
-### [취약계층 특화 택시 호출 앱](https://github-readme-stats.vercel.app/api/pin/?username=sae2say&repo=Summerthon-FE)
-
+### [바쁜 견주를 위한 도그워커 매칭 서비스](https://github.com/likelion-inha-hackathon-2/Meong-Signal-BE)
+### [취약계층 특화 택시 호출 앱](https://github.com/likelion-inha-hackathon-2/Summerthon-FE)
 <br>
 
 
