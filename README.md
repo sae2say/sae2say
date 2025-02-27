@@ -3,8 +3,6 @@
 <h1 align="center">💠sae2say💠</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sae2say)](https://github.com/anuraghazra/github-readme-stats)
-<img src="./neko" width="240" height="240">
-<img src="./neko2.jpg" width="240" height="240">
 
 
 <br>
