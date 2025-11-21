@@ -60,4 +60,8 @@
 
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sae2say&show_icons=true&theme=tokyonight)
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=84ADEA&height=150&section=footer"/>
