@@ -1,5 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=2F80ED&height=300&section=header&text=💠%20s%20a%20e%202%20s%20a%20y&fontSize=50&fontColor=F5F7FA)
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b7be430f-ca1a-4477-8f21-f030c5b045ec" height="260"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5a1fd233-255a-43c3-ae97-36427be7d62b" height="260"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/67807192-bb88-4acf-89f7-a992fe74a873" height="260"/>
+    </td>
+  </tr>
+</table>
+
+</br>
+
+
 ## 👋 안녕하세요!  
 
 서버 개발자를 희망하는 **백세희**입니다.
@@ -46,7 +63,7 @@
       <td>AI 민감정보 지우개 서비스</td>
       <td><a href="https://github.com/homelessYouHackathon/hackhack">🔗 바로가기</a></td>
       <td>제 1회 아랩 나랑팀해듀오 해커톤</td>
-      <td>2024-07-27 ~ 2024-08-28</td>
+      <td>2024-06-27 ~ 2024-06-28</td>
     </tr>
     <tr>
       <td><b>납작마켓 (출시완료, 진행중)</b></td>
@@ -74,4 +91,9 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## 🐾 지금까지
+- 인하대학교 인공지능공학과 (2022-03 ~ now)
+- 인하대학교 멋쟁이사자처럼 12기 (2024-03 ~ 2024-12)
+- 35기 AND SOPT 수료 (2024-09 ~ 2025-01)
+- 37기 DIVE SOPT 수료 (2025-09 ~ 2026-01)
+
