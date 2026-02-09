@@ -97,3 +97,13 @@
 - 35기 AND SOPT 수료 (2024-09 ~ 2025-01)
 - 37기 DIVE SOPT 수료 (2025-09 ~ 2026-01)
 
+</br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sae2say&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sae2say"
+    width="600"
+    height="120"
+  />
+</a>
+  
