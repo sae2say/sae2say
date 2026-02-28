@@ -9,9 +9,9 @@
 
 ## 👋 Hi there!
 
-I'm **Sehee Baek**, aiming to become a **Backend Developer**.
+I'm Sehee Baek, aiming to become a Backend Developer.
 
-I value **system design over features**, and **intent over implementation**.  
+I value system design over features, and intent over implementation.  
 My goal is to grow steadily as a developer who builds software with clear structure and purpose 🌱
 
 <br>
