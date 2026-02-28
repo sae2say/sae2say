@@ -92,7 +92,7 @@ My goal is to grow steadily as a developer who builds software with clear struct
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sae2say&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/sae2say?pet-id=808676471981302666"
+    src="https://render.gitanimals.org/farms/sae2say?loading"
     width="600"
     height="120"
   />
