@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=2F80ED&height=300&section=header&text=💠%20s%20a%20e%202%20s%20a%20y&fontSize=50&fontColor=F5F7FA)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1c561bcf-b597-43eb-ba5d-0921787d48f3" width="700" />
-</p>
-
-</br>
-
 
 ## 👋 Hi there!
 
