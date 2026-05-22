@@ -84,11 +84,4 @@ My goal is to grow steadily as a developer who builds software with clear struct
 
 </br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sae2say&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/sae2say"
-  width="600"
-  height="300"
-/>
-</a>
   
